@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(68.15deg, #DF7861 16.62%, #ECB390 85.61%);
+    font-size: 20px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: black;
+  }
+
+  h1, p{
+    text-align: center;
+  }
+
+  li:hover {
+    background-color: green;
+
+  }
